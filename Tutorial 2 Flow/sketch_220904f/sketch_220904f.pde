@@ -1,3 +1,5 @@
+//This is a variable example where the shapes in the screen change based on the
+//mouse position. Pressing Space will change the background and reset the shapes.
 int addColor = 0;
 
 void setup() {

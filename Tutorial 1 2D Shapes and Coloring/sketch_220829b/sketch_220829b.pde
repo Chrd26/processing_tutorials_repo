@@ -1,3 +1,4 @@
+//Simple Sketch by using shapes and colors
 size(640,360);
 background(100, 100, 100);
 

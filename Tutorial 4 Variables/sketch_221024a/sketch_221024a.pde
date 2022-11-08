@@ -1,3 +1,5 @@
+//Thi is an example of randomatization in colors shapes using the random(max) and random(min,max) funciton
+
 float circlex;
 float circley;
 
